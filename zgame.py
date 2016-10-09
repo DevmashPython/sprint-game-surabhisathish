@@ -38,3 +38,9 @@ while(1):
 time_elapsed=time.time()-s_time
 print "\ncongrats you have finished the game"
 print "\ntime taken to complete the game is "+str(round(time_elapsed))
+
+'''
+1. Mention controls for the game.
+2. The game should be lost on pressing the wrong key
+3. fix controls for the game
+'''
